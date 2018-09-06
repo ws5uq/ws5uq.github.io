@@ -4,16 +4,6 @@
 .subheader{
   text-align:center;
 }
-/* unvisited link */
-a:link {
-    color: red;
-}
-
-/* visited link */
-a:visited {
-    color: green;
-}
-/* mouse over link */
-a:hover {
-    color: hotpink;
+body{
+  background-image: url("paper.gif");
 }
